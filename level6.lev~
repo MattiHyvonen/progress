@@ -1,0 +1,18 @@
+
+visual media/final_bg.jpg
+logical media/final_logical.png
+trash media/final_trash.png
+time 4000
+intro media/end_intro.mp3
+loop media/end_loop.mp3
+spawns
+media/ads1.png
+media/sexyad1.png
+media/sexyad1.png
+media/sexyad2.png
+media/ads2.png
+media/sexyad3.png
+media/sexyad3.png
+media/ads3.png
+media/ads4.png
+media/ads5.png

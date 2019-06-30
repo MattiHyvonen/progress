@@ -1,0 +1,542 @@
+# depslib dependency file v1.0
+1422306427 source:/home/asennus/koodaus/progress/v6/display.cpp
+	"display.h"
+	<iostream>
+
+1422306210 /home/asennus/koodaus/progress/v6/display.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+	<string>
+
+1422306609 source:/home/asennus/koodaus/progress/v6/kuvanLataaja.cpp
+	"kuvanLataaja.h"
+	<iostream>
+
+1422306242 /home/asennus/koodaus/progress/v6/kuvanLataaja.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+	<string>
+
+1422316377 source:/home/asennus/koodaus/progress/v6/main.cpp
+	"display.h"
+	"tileTausta.h"
+
+1422312666 /home/asennus/koodaus/progress/v6/tileTausta.h
+	<vector>
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1422315864 source:/home/asennus/koodaus/progress/v6/tileTausta.cpp
+	"tileTausta.h"
+	"display.h"
+	<iostream>
+
+1426161280 source:/home/asennus/koodaus/progress/v7/display.cpp
+	"display.h"
+	<iostream>
+
+1422810951 /home/asennus/koodaus/progress/v7/display.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+	<string>
+
+1422306609 source:/home/asennus/koodaus/progress/v7/kuvanLataaja.cpp
+	"kuvanLataaja.h"
+	<iostream>
+
+1422306242 /home/asennus/koodaus/progress/v7/kuvanLataaja.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+	<string>
+
+1422820565 source:/home/asennus/koodaus/progress/v7/main.cpp
+	"display.h"
+	"tileTausta.h"
+	<iostream>
+	<string>
+	<sstream>
+	<math.h>
+
+1422312666 /home/asennus/koodaus/progress/v7/tileTausta.h
+	<vector>
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1422819862 source:/home/asennus/koodaus/progress/v7/tileTausta.cpp
+	"tileTausta.h"
+	"display.h"
+	<iostream>
+	<sstream>
+
+1426467885 source:/home/asennus/koodaus/progress/v8/display.cpp
+	"display.h"
+	<iostream>
+
+1426467402 /home/asennus/koodaus/progress/v8/display.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+	<string>
+
+1426469711 source:/home/asennus/koodaus/progress/v8/main.cpp
+	"world.h"
+	<iostream>
+	<string>
+	<sstream>
+	<math.h>
+
+1426460837 /home/asennus/koodaus/progress/v8/tileTausta.h
+	<vector>
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1426466643 source:/home/asennus/koodaus/progress/v8/tileTausta.cpp
+	"tileTausta.h"
+	"display.h"
+	"world.h"
+	<iostream>
+	<sstream>
+	<math.h>
+
+1426466739 source:/home/asennus/koodaus/progress/v8/kuvanLataaja.cpp
+	"kuvanLataaja.h"
+	<iostream>
+
+1426186302 /home/asennus/koodaus/progress/v8/kuvanLataaja.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+	<string>
+
+1426466789 /home/asennus/koodaus/progress/v8/world.h
+	"tileTausta.h"
+	"display.h"
+	"kuvanLataaja.h"
+
+1426468788 source:/home/asennus/koodaus/progress/v8/world.cpp
+	"world.h"
+	<sstream>
+
+1427411518 source:/home/asennus/koodaus/progress/v9/display.cpp
+	"display.h"
+	"world.h"
+	"map.h"
+	<iostream>
+	<sstream>
+
+1427412200 /home/asennus/koodaus/progress/v9/display.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+	<string>
+	"tileTausta.h"
+	"kuvanLataaja.h"
+	"map.h"
+
+1427233888 source:/home/asennus/koodaus/progress/v9/kuvanLataaja.cpp
+	"kuvanLataaja.h"
+	<iostream>
+
+1427233870 /home/asennus/koodaus/progress/v9/kuvanLataaja.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+	<string>
+
+1427409569 source:/home/asennus/koodaus/progress/v9/main.cpp
+	"world.h"
+	"event.h"
+	<iostream>
+	<string>
+	<sstream>
+	<math.h>
+
+1427372353 /home/asennus/koodaus/progress/v9/world.h
+	"display.h"
+	"map.h"
+	<vector>
+
+1427234441 /home/asennus/koodaus/progress/v9/tileTausta.h
+	<vector>
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1427323678 /home/asennus/koodaus/progress/v9/map.h
+	<vector>
+
+1427234569 source:/home/asennus/koodaus/progress/v9/tileTausta.cpp
+	"tileTausta.h"
+	"display.h"
+	"world.h"
+	<iostream>
+	<sstream>
+	<math.h>
+
+1425648900 source:/home/asennus/koodaus/progress/v9/logic.cpp
+	"logic.h"
+
+1425648688 /home/asennus/koodaus/progress/v9/logic.h
+
+1427369994 source:/home/asennus/koodaus/progress/v9/map.cpp
+	"map.h"
+	"world.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1427412187 source:/home/asennus/koodaus/progress/v9/world.cpp
+	"world.h"
+	"event.h"
+	<sstream>
+	<iostream>
+	<math.h>
+
+1427373352 source:/home/asennus/koodaus/progress/v9/event.cpp
+	"event.h"
+	<SDL2/SDL.h>
+
+1427373302 /home/asennus/koodaus/progress/v9/event.h
+
+1427322793 /home/asennus/koodaus/progress/v9/progress.h
+	"world.h"
+	"map.h"
+	"display.h"
+	"event.h"
+	"kuvanLataaja.h"
+	"tileTausta.h"
+
+1427481850 source:/home/asennus/koodaus/progress/v10/display.cpp
+	"display.h"
+	"world.h"
+	"map.h"
+	<iostream>
+	<sstream>
+
+1427480128 /home/asennus/koodaus/progress/v10/display.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+	<string>
+	"tileTausta.h"
+	"kuvanLataaja.h"
+	"map.h"
+
+1427470842 /home/asennus/koodaus/progress/v10/tileTausta.h
+	<vector>
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1427466163 /home/asennus/koodaus/progress/v10/kuvanLataaja.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+	<string>
+
+1427474750 /home/asennus/koodaus/progress/v10/map.h
+	<vector>
+
+1427476213 /home/asennus/koodaus/progress/v10/world.h
+	"display.h"
+	"map.h"
+	<vector>
+
+1427416256 source:/home/asennus/koodaus/progress/v10/event.cpp
+	"event.h"
+	<SDL2/SDL.h>
+
+1427416214 /home/asennus/koodaus/progress/v10/event.h
+
+1427466179 source:/home/asennus/koodaus/progress/v10/kuvanLataaja.cpp
+	"kuvanLataaja.h"
+	<iostream>
+
+1427479656 source:/home/asennus/koodaus/progress/v10/main.cpp
+	"world.h"
+	"event.h"
+	<iostream>
+	<string>
+	<sstream>
+	<math.h>
+	<vector>
+
+1427475123 source:/home/asennus/koodaus/progress/v10/map.cpp
+	"map.h"
+	"world.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1427480242 source:/home/asennus/koodaus/progress/v10/tileTausta.cpp
+	"tileTausta.h"
+	"display.h"
+	"world.h"
+	<iostream>
+	<sstream>
+	<math.h>
+
+1427480751 source:/home/asennus/koodaus/progress/v10/world.cpp
+	"world.h"
+	"event.h"
+	<sstream>
+	<iostream>
+	<math.h>
+
+1427547666 source:/home/asennus/koodaus/progress/v11/event.cpp
+	"event.h"
+	<SDL2/SDL.h>
+
+1427547604 /home/asennus/koodaus/progress/v11/event.h
+
+1427466179 source:/home/asennus/koodaus/progress/v11/kuvanLataaja.cpp
+	"kuvanLataaja.h"
+	<iostream>
+
+1427466163 /home/asennus/koodaus/progress/v11/kuvanLataaja.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+	<string>
+
+1427566100 source:/home/asennus/koodaus/progress/v11/main.cpp
+	"world.h"
+	"event.h"
+	<iostream>
+	<string>
+	<sstream>
+	<math.h>
+	<vector>
+
+1427476213 /home/asennus/koodaus/progress/v11/world.h
+	"display.h"
+	"map.h"
+	<vector>
+
+1427561916 /home/asennus/koodaus/progress/v11/display.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+	<string>
+	"tileTausta.h"
+	"kuvanLataaja.h"
+	"map.h"
+
+1427556105 /home/asennus/koodaus/progress/v11/tileTausta.h
+	<vector>
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1427483026 /home/asennus/koodaus/progress/v11/map.h
+	<vector>
+
+1427558736 source:/home/asennus/koodaus/progress/v11/tileTausta.cpp
+	"tileTausta.h"
+	"display.h"
+	"world.h"
+	<iostream>
+	<sstream>
+	<math.h>
+
+1427564611 source:/home/asennus/koodaus/progress/v11/world.cpp
+	"world.h"
+	"event.h"
+	<sstream>
+	<iostream>
+	<math.h>
+
+1427483132 source:/home/asennus/koodaus/progress/v11/map.cpp
+	"map.h"
+	"world.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1427566815 source:/home/asennus/koodaus/progress/v11/display.cpp
+	"display.h"
+	"world.h"
+	"map.h"
+	<iostream>
+	<sstream>
+
+1427670836 source:/home/asennus/koodaus/progress/v12/event.cpp
+	"event.h"
+	<SDL2/SDL.h>
+
+1427670838 /home/asennus/koodaus/progress/v12/event.h
+
+1427670840 source:/home/asennus/koodaus/progress/v12/kuvanLataaja.cpp
+	"kuvanLataaja.h"
+	<iostream>
+
+1427670840 /home/asennus/koodaus/progress/v12/kuvanLataaja.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+	<string>
+
+1427670846 source:/home/asennus/koodaus/progress/v12/main.cpp
+	"world.h"
+	"event.h"
+	<iostream>
+	<string>
+	<sstream>
+	<math.h>
+	<vector>
+
+1427670872 /home/asennus/koodaus/progress/v12/world.h
+	"display.h"
+	"map.h"
+	<vector>
+
+1427670832 /home/asennus/koodaus/progress/v12/display.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+	<string>
+	"tileTausta.h"
+	"kuvanLataaja.h"
+	"map.h"
+
+1427670868 /home/asennus/koodaus/progress/v12/tileTausta.h
+	<vector>
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1427670850 /home/asennus/koodaus/progress/v12/map.h
+	<vector>
+
+1427670848 source:/home/asennus/koodaus/progress/v12/map.cpp
+	"map.h"
+	"world.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1427670868 source:/home/asennus/koodaus/progress/v12/tileTausta.cpp
+	"tileTausta.h"
+	"display.h"
+	"world.h"
+	<iostream>
+	<sstream>
+	<math.h>
+
+1427670870 source:/home/asennus/koodaus/progress/v12/world.cpp
+	"world.h"
+	"event.h"
+	<sstream>
+	<iostream>
+	<math.h>
+
+1427677631 source:/home/asennus/koodaus/progress/v12/display.cpp
+	"display.h"
+	"world.h"
+	"map.h"
+	<iostream>
+	<sstream>
+
+1428500282 source:/home/asennus/koodaus/progress/v14/display.cpp
+	"display.h"
+	"world.h"
+	"map.h"
+	<iostream>
+	<sstream>
+
+1428160237 /home/asennus/koodaus/progress/v14/display.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<vector>
+	<string>
+	"tileTausta.h"
+	"kuvanLataaja.h"
+	"map.h"
+
+1427826616 /home/asennus/koodaus/progress/v14/tileTausta.h
+	<vector>
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1427914832 /home/asennus/koodaus/progress/v14/kuvanLataaja.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+	<string>
+
+1427670850 /home/asennus/koodaus/progress/v14/map.h
+	<vector>
+
+1428158643 /home/asennus/koodaus/progress/v14/world.h
+	"display.h"
+	"map.h"
+	<vector>
+
+1428158852 source:/home/asennus/koodaus/progress/v14/event.cpp
+	"event.h"
+	<SDL2/SDL.h>
+
+1428158806 /home/asennus/koodaus/progress/v14/event.h
+
+1427914704 source:/home/asennus/koodaus/progress/v14/kuvanLataaja.cpp
+	"kuvanLataaja.h"
+	<iostream>
+
+1428487226 source:/home/asennus/koodaus/progress/v14/main.cpp
+	"world.h"
+	"display.h"
+	"event.h"
+	<SDL2/SDL_mixer.h>
+	<iostream>
+	<string>
+	<sstream>
+	<math.h>
+	<vector>
+
+1428115466 source:/home/asennus/koodaus/progress/v14/map.cpp
+	"map.h"
+	"world.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1427914790 source:/home/asennus/koodaus/progress/v14/tileTausta.cpp
+	"tileTausta.h"
+	"display.h"
+	"world.h"
+	<iostream>
+	<sstream>
+	<math.h>
+
+1428487173 source:/home/asennus/koodaus/progress/v14/world.cpp
+	"world.h"
+	"event.h"
+	<sstream>
+	<iostream>
+	<fstream>
+	<math.h>
+

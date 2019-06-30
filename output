@@ -1,0 +1,4659 @@
+Ladattiin kartta media/kartta.jpg
+Ladattiin kartta media/trash.png
+Ladattiin looginen kartta (320, 240)
+Ladattiin kuva media/spawn1.png.
+Ladattiin kuva media/spawn2.png.
+Ladattiin kuva media/spawn3.png.
+Ladattiin kuva media/aivo.png.
+Ladattiin kuva media/raha1.png.
+Luotiin taso: 3000, 2248
+piirraTausta(1180, 884)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-430, -322)
+1: draw(320, -322)
+2: draw(-430, 240)
+3: draw(320, 240)
+
+piirraTausta(1243, 931)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-493, -369)
+1: draw(257, -369)
+2: draw(-493, 193)
+3: draw(257, 193)
+
+piirraTausta(1243, 931)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-493, -369)
+1: draw(257, -369)
+2: draw(-493, 193)
+3: draw(257, 193)
+
+piirraTausta(1243, 931)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-493, -369)
+1: draw(257, -369)
+2: draw(-493, 193)
+3: draw(257, 193)
+
+piirraTausta(1243, 931)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-493, -369)
+1: draw(257, -369)
+2: draw(-493, 193)
+3: draw(257, 193)
+
+piirraTausta(1243, 931)...
+tausta: 511, 383
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-493, -369)
+1: draw(257, -369)
+2: draw(-493, 193)
+3: draw(257, 193)
+
+piirraTausta(1244, 932)...
+tausta: 511, 383
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-494, -370)
+1: draw(256, -370)
+2: draw(-494, 192)
+3: draw(256, 192)
+
+piirraTausta(1244, 932)...
+tausta: 511, 383
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-494, -370)
+1: draw(256, -370)
+2: draw(-494, 192)
+3: draw(256, 192)
+
+piirraTausta(1244, 932)...
+tausta: 511, 383
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-494, -370)
+1: draw(256, -370)
+2: draw(-494, 192)
+3: draw(256, 192)
+
+piirraTausta(1244, 932)...
+tausta: 511, 383
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-494, -370)
+1: draw(256, -370)
+2: draw(-494, 192)
+3: draw(256, 192)
+
+piirraTausta(1244, 932)...
+tausta: 511, 383
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-494, -370)
+1: draw(256, -370)
+2: draw(-494, 192)
+3: draw(256, 192)
+
+piirraTausta(1244, 932)...
+tausta: 511, 383
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-494, -370)
+1: draw(256, -370)
+2: draw(-494, 192)
+3: draw(256, 192)
+
+piirraTausta(1244, 932)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-494, -370)
+1: draw(256, -370)
+2: draw(-494, 192)
+3: draw(256, 192)
+
+piirraTausta(1242, 931)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-492, -369)
+1: draw(258, -369)
+2: draw(-492, 193)
+3: draw(258, 193)
+
+piirraTausta(1242, 930)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-492, -368)
+1: draw(258, -368)
+2: draw(-492, 194)
+3: draw(258, 194)
+
+piirraTausta(1241, 930)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-491, -368)
+1: draw(259, -368)
+2: draw(-491, 194)
+3: draw(259, 194)
+
+piirraTausta(1241, 929)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-491, -367)
+1: draw(259, -367)
+2: draw(-491, 195)
+3: draw(259, 195)
+
+piirraTausta(1240, 929)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-490, -367)
+1: draw(260, -367)
+2: draw(-490, 195)
+3: draw(260, 195)
+
+piirraTausta(1238, 928)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-488, -366)
+1: draw(262, -366)
+2: draw(-488, 196)
+3: draw(262, 196)
+
+piirraTausta(1237, 927)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-487, -365)
+1: draw(263, -365)
+2: draw(-487, 197)
+3: draw(263, 197)
+
+roska: (1431, 1056), r=62
+tausta: 124, 124
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-681, -494)
+1: draw(69, -494)
+2: draw(-681, 68)
+3: draw(69, 68)
+
+piirraTausta(1236, 925)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-486, -363)
+1: draw(264, -363)
+2: draw(-486, 199)
+3: draw(264, 199)
+
+piirraTausta(1234, 924)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-484, -362)
+1: draw(266, -362)
+2: draw(-484, 200)
+3: draw(266, 200)
+
+piirraTausta(1233, 922)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-483, -360)
+1: draw(267, -360)
+2: draw(-483, 202)
+3: draw(267, 202)
+
+roska: (1426, 1052), r=62
+tausta: 124, 124
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-676, -490)
+1: draw(74, -490)
+2: draw(-676, 72)
+3: draw(74, 72)
+
+piirraTausta(1231, 921)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-481, -359)
+1: draw(269, -359)
+2: draw(-481, 203)
+3: draw(269, 203)
+
+piirraTausta(1229, 919)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-479, -357)
+1: draw(271, -357)
+2: draw(-479, 205)
+3: draw(271, 205)
+
+piirraTausta(1227, 917)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-477, -355)
+1: draw(273, -355)
+2: draw(-477, 207)
+3: draw(273, 207)
+
+roska: (1418, 1044), r=64
+tausta: 128, 128
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-668, -482)
+1: draw(82, -482)
+2: draw(-668, 80)
+3: draw(82, 80)
+
+piirraTausta(1225, 915)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-475, -353)
+1: draw(275, -353)
+2: draw(-475, 209)
+3: draw(275, 209)
+
+piirraTausta(1223, 914)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-473, -352)
+1: draw(277, -352)
+2: draw(-473, 210)
+3: draw(277, 210)
+
+piirraTausta(1221, 912)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-471, -350)
+1: draw(279, -350)
+2: draw(-471, 212)
+3: draw(279, 212)
+
+roska: (1407, 1033), r=69
+tausta: 138, 138
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-657, -471)
+1: draw(93, -471)
+2: draw(-657, 91)
+3: draw(93, 91)
+
+piirraTausta(1219, 909)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-469, -347)
+1: draw(281, -347)
+2: draw(-469, 215)
+3: draw(281, 215)
+
+piirraTausta(1217, 907)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-467, -345)
+1: draw(283, -345)
+2: draw(-467, 217)
+3: draw(283, 217)
+
+piirraTausta(1214, 905)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-464, -343)
+1: draw(286, -343)
+2: draw(-464, 219)
+3: draw(286, 219)
+
+roska: (1397, 1024), r=72
+tausta: 144, 144
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-647, -462)
+1: draw(103, -462)
+2: draw(-647, 100)
+3: draw(103, 100)
+
+piirraTausta(1212, 903)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-462, -341)
+1: draw(288, -341)
+2: draw(-462, 221)
+3: draw(288, 221)
+
+piirraTausta(1210, 900)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-460, -338)
+1: draw(290, -338)
+2: draw(-460, 224)
+3: draw(290, 224)
+
+piirraTausta(1207, 898)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-457, -336)
+1: draw(293, -336)
+2: draw(-457, 226)
+3: draw(293, 226)
+
+roska: (1387, 1015), r=74
+tausta: 148, 148
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-637, -453)
+1: draw(113, -453)
+2: draw(-637, 109)
+3: draw(113, 109)
+
+piirraTausta(1204, 896)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-454, -334)
+1: draw(296, -334)
+2: draw(-454, 228)
+3: draw(296, 228)
+
+piirraTausta(1202, 893)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-452, -331)
+1: draw(298, -331)
+2: draw(-452, 231)
+3: draw(298, 231)
+
+piirraTausta(1199, 891)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-449, -329)
+1: draw(301, -329)
+2: draw(-449, 233)
+3: draw(301, 233)
+
+roska: (1377, 1004), r=77
+tausta: 154, 154
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-627, -442)
+1: draw(123, -442)
+2: draw(-627, 120)
+3: draw(123, 120)
+
+piirraTausta(1197, 888)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-447, -326)
+1: draw(303, -326)
+2: draw(-447, 236)
+3: draw(303, 236)
+
+piirraTausta(1194, 885)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-444, -323)
+1: draw(306, -323)
+2: draw(-444, 239)
+3: draw(306, 239)
+
+piirraTausta(1192, 883)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-442, -321)
+1: draw(308, -321)
+2: draw(-442, 241)
+3: draw(308, 241)
+
+roska: (1367, 994), r=79
+tausta: 158, 158
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-617, -432)
+1: draw(133, -432)
+2: draw(-617, 130)
+3: draw(133, 130)
+
+piirraTausta(1189, 880)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-439, -318)
+1: draw(311, -318)
+2: draw(-439, 244)
+3: draw(311, 244)
+
+piirraTausta(1186, 878)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-436, -316)
+1: draw(314, -316)
+2: draw(-436, 246)
+3: draw(314, 246)
+
+piirraTausta(1183, 876)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-433, -314)
+1: draw(317, -314)
+2: draw(-433, 248)
+3: draw(317, 248)
+
+roska: (1356, 986), r=81
+tausta: 162, 162
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-606, -424)
+1: draw(144, -424)
+2: draw(-606, 138)
+3: draw(144, 138)
+
+piirraTausta(1180, 874)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-430, -312)
+1: draw(320, -312)
+2: draw(-430, 250)
+3: draw(320, 250)
+
+piirraTausta(1178, 872)...
+tausta: 511, 383
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-428, -310)
+1: draw(322, -310)
+2: draw(-428, 252)
+3: draw(322, 252)
+
+piirraTausta(1176, 871)...
+tausta: 511, 383
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-426, -309)
+1: draw(324, -309)
+2: draw(-426, 253)
+3: draw(324, 253)
+
+piirraTausta(1172, 869)...
+tausta: 511, 383
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-422, -307)
+1: draw(328, -307)
+2: draw(-422, 255)
+3: draw(328, 255)
+
+piirraTausta(1169, 868)...
+tausta: 511, 383
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-419, -306)
+1: draw(331, -306)
+2: draw(-419, 256)
+3: draw(331, 256)
+
+piirraTausta(1166, 867)...
+tausta: 511, 383
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-416, -305)
+1: draw(334, -305)
+2: draw(-416, 257)
+3: draw(334, 257)
+
+piirraTausta(1162, 866)...
+tausta: 511, 383
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-412, -304)
+1: draw(338, -304)
+2: draw(-412, 258)
+3: draw(338, 258)
+
+piirraTausta(1158, 866)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-408, -304)
+1: draw(342, -304)
+2: draw(-408, 258)
+3: draw(342, 258)
+
+piirraTausta(1152, 865)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-402, -303)
+1: draw(348, -303)
+2: draw(-402, 259)
+3: draw(348, 259)
+
+piirraTausta(1148, 865)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-398, -303)
+1: draw(352, -303)
+2: draw(-398, 259)
+3: draw(352, 259)
+
+piirraTausta(1143, 865)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-393, -303)
+1: draw(357, -303)
+2: draw(-393, 259)
+3: draw(357, 259)
+
+piirraTausta(1138, 866)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-388, -304)
+1: draw(362, -304)
+2: draw(-388, 258)
+3: draw(362, 258)
+
+piirraTausta(1133, 867)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-383, -305)
+1: draw(367, -305)
+2: draw(-383, 257)
+3: draw(367, 257)
+
+roska: (1295, 971), r=90
+tausta: 180, 180
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-545, -409)
+1: draw(205, -409)
+2: draw(-545, 153)
+3: draw(205, 153)
+
+piirraTausta(1128, 868)...
+tausta: 512, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-378, -306)
+1: draw(372, -306)
+2: draw(-378, 256)
+3: draw(372, 256)
+
+piirraTausta(1123, 869)...
+tausta: 513, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-373, -307)
+1: draw(377, -307)
+2: draw(-373, 255)
+3: draw(377, 255)
+
+piirraTausta(1118, 870)...
+tausta: 513, 384
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-368, -308)
+1: draw(382, -308)
+2: draw(-368, 254)
+3: draw(382, 254)
+
+piirraTausta(1113, 872)...
+tausta: 513, 385
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-363, -310)
+1: draw(387, -310)
+2: draw(-363, 252)
+3: draw(387, 252)
+
+piirraTausta(1107, 874)...
+tausta: 513, 385
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-357, -312)
+1: draw(393, -312)
+2: draw(-357, 250)
+3: draw(393, 250)
+
+piirraTausta(1102, 876)...
+tausta: 513, 385
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-352, -314)
+1: draw(398, -314)
+2: draw(-352, 248)
+3: draw(398, 248)
+
+piirraTausta(1096, 879)...
+tausta: 513, 385
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-346, -317)
+1: draw(404, -317)
+2: draw(-346, 245)
+3: draw(404, 245)
+
+roska: (1249, 977), r=98
+tausta: 196, 196
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-499, -415)
+1: draw(251, -415)
+2: draw(-499, 147)
+3: draw(251, 147)
+
+piirraTausta(1090, 882)...
+tausta: 514, 385
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-340, -320)
+1: draw(410, -320)
+2: draw(-340, 242)
+3: draw(410, 242)
+
+piirraTausta(1083, 884)...
+tausta: 514, 385
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-333, -322)
+1: draw(417, -322)
+2: draw(-333, 240)
+3: draw(417, 240)
+
+piirraTausta(1078, 887)...
+tausta: 514, 386
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-328, -325)
+1: draw(422, -325)
+2: draw(-328, 237)
+3: draw(422, 237)
+
+piirraTausta(1072, 889)...
+tausta: 514, 386
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-322, -327)
+1: draw(428, -327)
+2: draw(-322, 235)
+3: draw(428, 235)
+
+piirraTausta(1066, 893)...
+tausta: 515, 386
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-316, -331)
+1: draw(434, -331)
+2: draw(-316, 231)
+3: draw(434, 231)
+
+piirraTausta(1059, 896)...
+tausta: 515, 386
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-309, -334)
+1: draw(441, -334)
+2: draw(-309, 228)
+3: draw(441, 228)
+
+piirraTausta(1052, 900)...
+tausta: 515, 386
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-302, -338)
+1: draw(448, -338)
+2: draw(-302, 224)
+3: draw(448, 224)
+
+roska: (1197, 992), r=107
+tausta: 214, 214
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-447, -430)
+1: draw(303, -430)
+2: draw(-447, 132)
+3: draw(303, 132)
+
+piirraTausta(1046, 905)...
+tausta: 516, 387
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-296, -343)
+1: draw(454, -343)
+2: draw(-296, 219)
+3: draw(454, 219)
+
+piirraTausta(1039, 908)...
+tausta: 516, 387
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-289, -346)
+1: draw(461, -346)
+2: draw(-289, 216)
+3: draw(461, 216)
+
+piirraTausta(1032, 912)...
+tausta: 517, 387
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-282, -350)
+1: draw(468, -350)
+2: draw(-282, 212)
+3: draw(468, 212)
+
+piirraTausta(1026, 917)...
+tausta: 517, 388
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-276, -355)
+1: draw(474, -355)
+2: draw(-276, 207)
+3: draw(474, 207)
+
+piirraTausta(1019, 921)...
+tausta: 518, 388
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-269, -359)
+1: draw(481, -359)
+2: draw(-269, 203)
+3: draw(481, 203)
+
+roska: (1156, 1006), r=115
+tausta: 230, 230
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-406, -444)
+1: draw(344, -444)
+2: draw(-406, 118)
+3: draw(344, 118)
+
+piirraTausta(1011, 926)...
+tausta: 518, 389
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-261, -364)
+1: draw(489, -364)
+2: draw(-261, 198)
+3: draw(489, 198)
+
+piirraTausta(1005, 930)...
+tausta: 519, 389
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-255, -368)
+1: draw(495, -368)
+2: draw(-255, 194)
+3: draw(495, 194)
+
+piirraTausta(998, 935)...
+tausta: 519, 389
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-248, -373)
+1: draw(502, -373)
+2: draw(-248, 189)
+3: draw(502, 189)
+
+piirraTausta(991, 940)...
+tausta: 520, 390
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-241, -378)
+1: draw(509, -378)
+2: draw(-241, 184)
+3: draw(509, 184)
+
+piirraTausta(983, 945)...
+tausta: 521, 391
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-233, -383)
+1: draw(517, -383)
+2: draw(-233, 179)
+3: draw(517, 179)
+
+roska: (1107, 1018), r=129
+tausta: 258, 258
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-357, -456)
+1: draw(393, -456)
+2: draw(-357, 106)
+3: draw(393, 106)
+
+piirraTausta(975, 951)...
+tausta: 522, 391
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-225, -389)
+1: draw(525, -389)
+2: draw(-225, 173)
+3: draw(525, 173)
+
+piirraTausta(967, 956)...
+tausta: 523, 392
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-217, -394)
+1: draw(533, -394)
+2: draw(-217, 168)
+3: draw(533, 168)
+
+piirraTausta(960, 961)...
+tausta: 523, 392
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-210, -399)
+1: draw(540, -399)
+2: draw(-210, 163)
+3: draw(540, 163)
+
+piirraTausta(953, 967)...
+tausta: 524, 393
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-203, -405)
+1: draw(547, -405)
+2: draw(-203, 157)
+3: draw(547, 157)
+
+piirraTausta(944, 973)...
+tausta: 525, 394
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-194, -411)
+1: draw(556, -411)
+2: draw(-194, 151)
+3: draw(556, 151)
+
+piirraTausta(936, 979)...
+tausta: 526, 395
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-186, -417)
+1: draw(564, -417)
+2: draw(-186, 145)
+3: draw(564, 145)
+
+roska: (1047, 1040), r=144
+tausta: 288, 288
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-297, -478)
+1: draw(453, -478)
+2: draw(-297, 84)
+3: draw(453, 84)
+
+piirraTausta(927, 986)...
+tausta: 527, 395
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-177, -424)
+1: draw(573, -424)
+2: draw(-177, 138)
+3: draw(573, 138)
+
+piirraTausta(921, 993)...
+tausta: 528, 396
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-171, -431)
+1: draw(579, -431)
+2: draw(-171, 131)
+3: draw(579, 131)
+
+piirraTausta(914, 999)...
+tausta: 530, 397
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-164, -437)
+1: draw(586, -437)
+2: draw(-164, 125)
+3: draw(586, 125)
+
+piirraTausta(907, 1006)...
+tausta: 531, 398
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-157, -444)
+1: draw(593, -444)
+2: draw(-157, 118)
+3: draw(593, 118)
+
+piirraTausta(902, 1013)...
+tausta: 532, 399
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-152, -451)
+1: draw(598, -451)
+2: draw(-152, 111)
+3: draw(598, 111)
+
+roska: (1012, 1070), r=151
+tausta: 302, 302
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-262, -508)
+1: draw(488, -508)
+2: draw(-262, 54)
+3: draw(488, 54)
+
+piirraTausta(896, 1021)...
+tausta: 533, 400
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-146, -459)
+1: draw(604, -459)
+2: draw(-146, 103)
+3: draw(604, 103)
+
+piirraTausta(893, 1027)...
+tausta: 535, 401
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-143, -465)
+1: draw(607, -465)
+2: draw(-143, 97)
+3: draw(607, 97)
+
+piirraTausta(889, 1035)...
+tausta: 536, 402
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-139, -473)
+1: draw(611, -473)
+2: draw(-139, 89)
+3: draw(611, 89)
+
+piirraTausta(886, 1043)...
+tausta: 538, 403
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-136, -481)
+1: draw(614, -481)
+2: draw(-136, 81)
+3: draw(614, 81)
+
+piirraTausta(883, 1052)...
+tausta: 539, 404
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-133, -490)
+1: draw(617, -490)
+2: draw(-133, 72)
+3: draw(617, 72)
+
+piirraTausta(882, 1060)...
+tausta: 541, 405
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-132, -498)
+1: draw(618, -498)
+2: draw(-132, 64)
+3: draw(618, 64)
+
+roska: (1000, 1121), r=152
+tausta: 304, 304
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-250, -559)
+1: draw(500, -559)
+2: draw(-250, 3)
+3: draw(500, 3)
+
+piirraTausta(881, 1070)...
+tausta: 542, 406
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-131, -508)
+1: draw(619, -508)
+2: draw(-131, 54)
+3: draw(619, 54)
+
+piirraTausta(881, 1078)...
+tausta: 544, 408
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-131, -516)
+1: draw(619, -516)
+2: draw(-131, 46)
+3: draw(619, 46)
+
+piirraTausta(880, 1086)...
+tausta: 546, 409
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-130, -524)
+1: draw(620, -524)
+2: draw(-130, 38)
+3: draw(620, 38)
+
+piirraTausta(881, 1096)...
+tausta: 548, 411
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-131, -534)
+1: draw(619, -534)
+2: draw(-131, 28)
+3: draw(619, 28)
+
+piirraTausta(882, 1106)...
+tausta: 550, 412
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-132, -544)
+1: draw(618, -544)
+2: draw(-132, 18)
+3: draw(618, 18)
+
+piirraTausta(884, 1116)...
+tausta: 552, 414
+0:tile[1:1]
+1:tile[2:1]
+2:tile[1:2]
+3:tile[2:2]
+0: draw(-134, -554)
+1: draw(616, -554)
+2: draw(-134, 8)
+3: draw(616, 8)
+
+roska: (985, 1155), r=179
+tausta: 358, 358
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-235, -31)
+1: draw(515, -31)
+2: draw(-235, 531)
+3: draw(515, 531)
+
+piirraTausta(887, 1126)...
+tausta: 554, 416
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-137, -2)
+1: draw(613, -2)
+2: draw(-137, 560)
+3: draw(613, 560)
+
+piirraTausta(889, 1135)...
+tausta: 556, 417
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-139, -11)
+1: draw(611, -11)
+2: draw(-139, 551)
+3: draw(611, 551)
+
+piirraTausta(893, 1146)...
+tausta: 559, 419
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-143, -22)
+1: draw(607, -22)
+2: draw(-143, 540)
+3: draw(607, 540)
+
+piirraTausta(897, 1157)...
+tausta: 561, 421
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-147, -33)
+1: draw(603, -33)
+2: draw(-147, 529)
+3: draw(603, 529)
+
+piirraTausta(901, 1168)...
+tausta: 564, 423
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-151, -44)
+1: draw(599, -44)
+2: draw(-151, 518)
+3: draw(599, 518)
+
+piirraTausta(906, 1179)...
+tausta: 566, 425
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-156, -55)
+1: draw(594, -55)
+2: draw(-156, 507)
+3: draw(594, 507)
+
+roska: (975, 1183), r=221
+tausta: 442, 442
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-225, -59)
+1: draw(525, -59)
+2: draw(-225, 503)
+3: draw(525, 503)
+
+piirraTausta(912, 1191)...
+tausta: 569, 427
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-162, -67)
+1: draw(588, -67)
+2: draw(-162, 495)
+3: draw(588, 495)
+
+piirraTausta(917, 1202)...
+tausta: 572, 429
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-167, -78)
+1: draw(583, -78)
+2: draw(-167, 484)
+3: draw(583, 484)
+
+piirraTausta(922, 1214)...
+tausta: 574, 431
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-172, -90)
+1: draw(578, -90)
+2: draw(-172, 472)
+3: draw(578, 472)
+
+piirraTausta(929, 1226)...
+tausta: 577, 433
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-179, -102)
+1: draw(571, -102)
+2: draw(-179, 460)
+3: draw(571, 460)
+
+piirraTausta(937, 1239)...
+tausta: 580, 435
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-187, -115)
+1: draw(563, -115)
+2: draw(-187, 447)
+3: draw(563, 447)
+
+roska: (988, 1222), r=248
+tausta: 496, 496
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-238, -98)
+1: draw(512, -98)
+2: draw(-238, 464)
+3: draw(512, 464)
+
+piirraTausta(945, 1252)...
+tausta: 583, 437
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-195, -128)
+1: draw(555, -128)
+2: draw(-195, 434)
+3: draw(555, 434)
+
+piirraTausta(953, 1264)...
+tausta: 586, 439
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-203, -140)
+1: draw(547, -140)
+2: draw(-203, 422)
+3: draw(547, 422)
+
+piirraTausta(960, 1277)...
+tausta: 589, 441
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-210, -153)
+1: draw(540, -153)
+2: draw(-210, 409)
+3: draw(540, 409)
+
+piirraTausta(969, 1291)...
+tausta: 592, 444
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-219, -167)
+1: draw(531, -167)
+2: draw(-219, 395)
+3: draw(531, 395)
+
+piirraTausta(978, 1304)...
+tausta: 595, 446
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-228, -180)
+1: draw(522, -180)
+2: draw(-228, 382)
+3: draw(522, 382)
+
+roska: (998, 1253), r=289
+tausta: 578, 578
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+4:tile[1:0]
+5:tile[2:0]
+0: draw(-248, -129)
+1: draw(502, -129)
+2: draw(-248, 433)
+3: draw(502, 433)
+4: draw(-248, 995)
+5: draw(502, 995)
+
+piirraTausta(989, 1318)...
+tausta: 598, 449
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-239, -194)
+1: draw(511, -194)
+2: draw(-239, 368)
+3: draw(511, 368)
+
+piirraTausta(998, 1331)...
+tausta: 602, 451
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-248, -207)
+1: draw(502, -207)
+2: draw(-248, 355)
+3: draw(502, 355)
+
+piirraTausta(1007, 1345)...
+tausta: 605, 454
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-257, -221)
+1: draw(493, -221)
+2: draw(-257, 341)
+3: draw(493, 341)
+
+piirraTausta(1019, 1359)...
+tausta: 609, 456
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-269, -235)
+1: draw(481, -235)
+2: draw(-269, 327)
+3: draw(481, 327)
+
+piirraTausta(1030, 1374)...
+tausta: 612, 459
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-280, -250)
+1: draw(470, -250)
+2: draw(-280, 312)
+3: draw(470, 312)
+
+piirraTausta(1041, 1390)...
+tausta: 616, 462
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-291, -266)
+1: draw(459, -266)
+2: draw(-291, 296)
+3: draw(459, 296)
+
+piirraTausta(1054, 1406)...
+tausta: 620, 465
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-304, -282)
+1: draw(446, -282)
+2: draw(-304, 280)
+3: draw(446, 280)
+
+roska: (1034, 1312), r=344
+tausta: 688, 688
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+4:tile[1:0]
+5:tile[2:0]
+0: draw(-284, -188)
+1: draw(466, -188)
+2: draw(-284, 374)
+3: draw(466, 374)
+4: draw(-284, 936)
+5: draw(466, 936)
+
+piirraTausta(1067, 1423)...
+tausta: 624, 468
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-317, -299)
+1: draw(433, -299)
+2: draw(-317, 263)
+3: draw(433, 263)
+
+piirraTausta(1079, 1438)...
+tausta: 628, 471
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-329, -314)
+1: draw(421, -314)
+2: draw(-329, 248)
+3: draw(421, 248)
+
+piirraTausta(1092, 1454)...
+tausta: 632, 474
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-342, -330)
+1: draw(408, -330)
+2: draw(-342, 232)
+3: draw(408, 232)
+
+piirraTausta(1106, 1470)...
+tausta: 636, 477
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-356, -346)
+1: draw(394, -346)
+2: draw(-356, 216)
+3: draw(394, 216)
+
+piirraTausta(1121, 1489)...
+tausta: 640, 480
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-371, -365)
+1: draw(379, -365)
+2: draw(-371, 197)
+3: draw(379, 197)
+
+roska: (1066, 1356), r=391
+tausta: 782, 782
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-316, -232)
+1: draw(434, -232)
+2: draw(1184, -232)
+3: draw(-316, 330)
+4: draw(434, 330)
+5: draw(1184, 330)
+6: draw(-316, 892)
+7: draw(434, 892)
+8: draw(1184, 892)
+
+piirraTausta(1136, 1506)...
+tausta: 645, 483
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-386, -382)
+1: draw(364, -382)
+2: draw(-386, 180)
+3: draw(364, 180)
+
+piirraTausta(1149, 1523)...
+tausta: 649, 487
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-399, -399)
+1: draw(351, -399)
+2: draw(-399, 163)
+3: draw(351, 163)
+
+piirraTausta(1164, 1539)...
+tausta: 654, 490
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-414, -415)
+1: draw(336, -415)
+2: draw(-414, 147)
+3: draw(336, 147)
+
+piirraTausta(1178, 1557)...
+tausta: 659, 494
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-428, -433)
+1: draw(322, -433)
+2: draw(-428, 129)
+3: draw(322, 129)
+
+piirraTausta(1194, 1574)...
+tausta: 664, 498
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-444, -450)
+1: draw(306, -450)
+2: draw(-444, 112)
+3: draw(306, 112)
+
+piirraTausta(1210, 1590)...
+tausta: 669, 501
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-460, -466)
+1: draw(290, -466)
+2: draw(-460, 96)
+3: draw(290, 96)
+
+roska: (1114, 1409), r=449
+tausta: 898, 898
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-364, -285)
+1: draw(386, -285)
+2: draw(1136, -285)
+3: draw(-364, 277)
+4: draw(386, 277)
+5: draw(1136, 277)
+6: draw(-364, 839)
+7: draw(386, 839)
+8: draw(1136, 839)
+
+piirraTausta(1228, 1607)...
+tausta: 674, 505
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-478, -483)
+1: draw(272, -483)
+2: draw(-478, 79)
+3: draw(272, 79)
+
+piirraTausta(1243, 1620)...
+tausta: 679, 509
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-493, -496)
+1: draw(257, -496)
+2: draw(-493, 66)
+3: draw(257, 66)
+
+piirraTausta(1260, 1633)...
+tausta: 685, 514
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-510, -509)
+1: draw(240, -509)
+2: draw(-510, 53)
+3: draw(240, 53)
+
+piirraTausta(1277, 1645)...
+tausta: 691, 518
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-527, -521)
+1: draw(223, -521)
+2: draw(-527, 41)
+3: draw(223, 41)
+
+piirraTausta(1295, 1657)...
+tausta: 697, 523
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-545, -533)
+1: draw(205, -533)
+2: draw(-545, 29)
+3: draw(205, 29)
+
+piirraTausta(1314, 1669)...
+tausta: 704, 528
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-564, -545)
+1: draw(186, -545)
+2: draw(-564, 17)
+3: draw(186, 17)
+
+piirraTausta(1334, 1680)...
+tausta: 710, 532
+0:tile[1:2]
+1:tile[2:2]
+2:tile[1:3]
+3:tile[2:3]
+0: draw(-584, -556)
+1: draw(166, -556)
+2: draw(-584, 6)
+3: draw(166, 6)
+
+piirraTausta(1356, 1692)...
+tausta: 717, 537
+0:tile[1:3]
+1:tile[2:3]
+2:tile[1:0]
+3:tile[2:0]
+0: draw(-606, -6)
+1: draw(144, -6)
+2: draw(-606, 556)
+3: draw(144, 556)
+
+piirraTausta(1379, 1705)...
+tausta: 723, 542
+0:tile[1:3]
+1:tile[2:3]
+2:tile[1:0]
+3:tile[2:0]
+0: draw(-629, -19)
+1: draw(121, -19)
+2: draw(-629, 543)
+3: draw(121, 543)
+
+piirraTausta(1402, 1718)...
+tausta: 730, 548
+0:tile[1:3]
+1:tile[2:3]
+2:tile[1:0]
+3:tile[2:0]
+0: draw(-652, -32)
+1: draw(98, -32)
+2: draw(-652, 530)
+3: draw(98, 530)
+
+piirraTausta(1426, 1733)...
+tausta: 737, 553
+0:tile[1:3]
+1:tile[2:3]
+2:tile[1:0]
+3:tile[2:0]
+0: draw(-676, -47)
+1: draw(74, -47)
+2: draw(-676, 515)
+3: draw(74, 515)
+
+piirraTausta(1452, 1750)...
+tausta: 744, 558
+0:tile[1:3]
+1:tile[2:3]
+2:tile[1:0]
+3:tile[2:0]
+0: draw(-702, -64)
+1: draw(48, -64)
+2: draw(-702, 498)
+3: draw(48, 498)
+
+piirraTausta(1477, 1767)...
+tausta: 752, 564
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-727, -81)
+1: draw(23, -81)
+2: draw(773, -81)
+3: draw(-727, 481)
+4: draw(23, 481)
+5: draw(773, 481)
+6: draw(-727, 1043)
+7: draw(23, 1043)
+8: draw(773, 1043)
+
+roska: (1242, 1430), r=637
+tausta: 1274, 1274
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+9:tile[1:1]
+10:tile[2:1]
+11:tile[3:1]
+0: draw(-492, -306)
+1: draw(258, -306)
+2: draw(1008, -306)
+3: draw(-492, 256)
+4: draw(258, 256)
+5: draw(1008, 256)
+6: draw(-492, 818)
+7: draw(258, 818)
+8: draw(1008, 818)
+9: draw(-492, 1380)
+10: draw(258, 1380)
+11: draw(1008, 1380)
+
+piirraTausta(1502, 1784)...
+tausta: 759, 569
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-2, -98)
+1: draw(748, -98)
+2: draw(1498, -98)
+3: draw(-2, 464)
+4: draw(748, 464)
+5: draw(1498, 464)
+6: draw(-2, 1026)
+7: draw(748, 1026)
+8: draw(1498, 1026)
+
+piirraTausta(1525, 1802)...
+tausta: 765, 574
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-25, -116)
+1: draw(725, -116)
+2: draw(1475, -116)
+3: draw(-25, 446)
+4: draw(725, 446)
+5: draw(1475, 446)
+6: draw(-25, 1008)
+7: draw(725, 1008)
+8: draw(1475, 1008)
+
+piirraTausta(1549, 1817)...
+tausta: 772, 579
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-49, -131)
+1: draw(701, -131)
+2: draw(1451, -131)
+3: draw(-49, 431)
+4: draw(701, 431)
+5: draw(1451, 431)
+6: draw(-49, 993)
+7: draw(701, 993)
+8: draw(1451, 993)
+
+piirraTausta(1573, 1834)...
+tausta: 780, 585
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-73, -148)
+1: draw(677, -148)
+2: draw(1427, -148)
+3: draw(-73, 414)
+4: draw(677, 414)
+5: draw(1427, 414)
+6: draw(-73, 976)
+7: draw(677, 976)
+8: draw(1427, 976)
+
+piirraTausta(1597, 1850)...
+tausta: 787, 590
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-97, -164)
+1: draw(653, -164)
+2: draw(1403, -164)
+3: draw(-97, 398)
+4: draw(653, 398)
+5: draw(1403, 398)
+6: draw(-97, 960)
+7: draw(653, 960)
+8: draw(1403, 960)
+
+piirraTausta(1622, 1865)...
+tausta: 795, 596
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-122, -179)
+1: draw(628, -179)
+2: draw(1378, -179)
+3: draw(-122, 383)
+4: draw(628, 383)
+5: draw(1378, 383)
+6: draw(-122, 945)
+7: draw(628, 945)
+8: draw(1378, 945)
+
+piirraTausta(1646, 1880)...
+tausta: 802, 602
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-146, -194)
+1: draw(604, -194)
+2: draw(1354, -194)
+3: draw(-146, 368)
+4: draw(604, 368)
+5: draw(1354, 368)
+6: draw(-146, 930)
+7: draw(604, 930)
+8: draw(1354, 930)
+
+piirraTausta(1669, 1895)...
+tausta: 810, 607
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-169, -209)
+1: draw(581, -209)
+2: draw(1331, -209)
+3: draw(-169, 353)
+4: draw(581, 353)
+5: draw(1331, 353)
+6: draw(-169, 915)
+7: draw(581, 915)
+8: draw(1331, 915)
+
+piirraTausta(1691, 1910)...
+tausta: 817, 613
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-191, -224)
+1: draw(559, -224)
+2: draw(1309, -224)
+3: draw(-191, 338)
+4: draw(559, 338)
+5: draw(1309, 338)
+6: draw(-191, 900)
+7: draw(559, 900)
+8: draw(1309, 900)
+
+roska: (1459, 1567), r=663
+tausta: 1326, 1326
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+9:tile[1:1]
+10:tile[2:1]
+11:tile[3:1]
+0: draw(-709, -443)
+1: draw(41, -443)
+2: draw(791, -443)
+3: draw(-709, 119)
+4: draw(41, 119)
+5: draw(791, 119)
+6: draw(-709, 681)
+7: draw(41, 681)
+8: draw(791, 681)
+9: draw(-709, 1243)
+10: draw(41, 1243)
+11: draw(791, 1243)
+
+piirraTausta(1713, 1923)...
+tausta: 825, 619
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-213, -237)
+1: draw(537, -237)
+2: draw(1287, -237)
+3: draw(-213, 325)
+4: draw(537, 325)
+5: draw(1287, 325)
+6: draw(-213, 887)
+7: draw(537, 887)
+8: draw(1287, 887)
+
+piirraTausta(1729, 1934)...
+tausta: 832, 624
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-229, -248)
+1: draw(521, -248)
+2: draw(1271, -248)
+3: draw(-229, 314)
+4: draw(521, 314)
+5: draw(1271, 314)
+6: draw(-229, 876)
+7: draw(521, 876)
+8: draw(1271, 876)
+
+piirraTausta(1746, 1945)...
+tausta: 840, 630
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-246, -259)
+1: draw(504, -259)
+2: draw(1254, -259)
+3: draw(-246, 303)
+4: draw(504, 303)
+5: draw(1254, 303)
+6: draw(-246, 865)
+7: draw(504, 865)
+8: draw(1254, 865)
+
+piirraTausta(1762, 1955)...
+tausta: 848, 636
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-262, -269)
+1: draw(488, -269)
+2: draw(1238, -269)
+3: draw(-262, 293)
+4: draw(488, 293)
+5: draw(1238, 293)
+6: draw(-262, 855)
+7: draw(488, 855)
+8: draw(1238, 855)
+
+piirraTausta(1778, 1965)...
+tausta: 855, 641
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-278, -279)
+1: draw(472, -279)
+2: draw(1222, -279)
+3: draw(-278, 283)
+4: draw(472, 283)
+5: draw(1222, 283)
+6: draw(-278, 845)
+7: draw(472, 845)
+8: draw(1222, 845)
+
+piirraTausta(1794, 1976)...
+tausta: 863, 647
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-294, -290)
+1: draw(456, -290)
+2: draw(1206, -290)
+3: draw(-294, 272)
+4: draw(456, 272)
+5: draw(1206, 272)
+6: draw(-294, 834)
+7: draw(456, 834)
+8: draw(1206, 834)
+
+piirraTausta(1808, 1985)...
+tausta: 870, 652
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-308, -299)
+1: draw(442, -299)
+2: draw(1192, -299)
+3: draw(-308, 263)
+4: draw(442, 263)
+5: draw(1192, 263)
+6: draw(-308, 825)
+7: draw(442, 825)
+8: draw(1192, 825)
+
+piirraTausta(1822, 1993)...
+tausta: 878, 658
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-322, -307)
+1: draw(428, -307)
+2: draw(1178, -307)
+3: draw(-322, 255)
+4: draw(428, 255)
+5: draw(1178, 255)
+6: draw(-322, 817)
+7: draw(428, 817)
+8: draw(1178, 817)
+
+piirraTausta(1835, 2002)...
+tausta: 885, 664
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-335, -316)
+1: draw(415, -316)
+2: draw(1165, -316)
+3: draw(-335, 246)
+4: draw(415, 246)
+5: draw(1165, 246)
+6: draw(-335, 808)
+7: draw(415, 808)
+8: draw(1165, 808)
+
+piirraTausta(1848, 2009)...
+tausta: 892, 669
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-348, -323)
+1: draw(402, -323)
+2: draw(1152, -323)
+3: draw(-348, 239)
+4: draw(402, 239)
+5: draw(1152, 239)
+6: draw(-348, 801)
+7: draw(402, 801)
+8: draw(1152, 801)
+
+piirraTausta(1860, 2018)...
+tausta: 900, 675
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-360, -332)
+1: draw(390, -332)
+2: draw(1140, -332)
+3: draw(-360, 230)
+4: draw(390, 230)
+5: draw(1140, 230)
+6: draw(-360, 792)
+7: draw(390, 792)
+8: draw(1140, 792)
+
+piirraTausta(1871, 2025)...
+tausta: 907, 680
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-371, -339)
+1: draw(379, -339)
+2: draw(1129, -339)
+3: draw(-371, 223)
+4: draw(379, 223)
+5: draw(1129, 223)
+6: draw(-371, 785)
+7: draw(379, 785)
+8: draw(1129, 785)
+
+piirraTausta(1882, 2031)...
+tausta: 915, 686
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-382, -345)
+1: draw(368, -345)
+2: draw(1118, -345)
+3: draw(-382, 217)
+4: draw(368, 217)
+5: draw(1118, 217)
+6: draw(-382, 779)
+7: draw(368, 779)
+8: draw(1118, 779)
+
+roska: (1761, 1791), r=589
+tausta: 1178, 1178
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+9:tile[2:2]
+10:tile[3:2]
+11:tile[0:2]
+0: draw(-261, -105)
+1: draw(489, -105)
+2: draw(1239, -105)
+3: draw(-261, 457)
+4: draw(489, 457)
+5: draw(1239, 457)
+6: draw(-261, 1019)
+7: draw(489, 1019)
+8: draw(1239, 1019)
+9: draw(-261, 1581)
+10: draw(489, 1581)
+11: draw(1239, 1581)
+
+piirraTausta(1892, 2037)...
+tausta: 922, 691
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-392, -351)
+1: draw(358, -351)
+2: draw(1108, -351)
+3: draw(-392, 211)
+4: draw(358, 211)
+5: draw(1108, 211)
+6: draw(-392, 773)
+7: draw(358, 773)
+8: draw(1108, 773)
+
+piirraTausta(1900, 2043)...
+tausta: 929, 697
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-400, -357)
+1: draw(350, -357)
+2: draw(1100, -357)
+3: draw(-400, 205)
+4: draw(350, 205)
+5: draw(1100, 205)
+6: draw(-400, 767)
+7: draw(350, 767)
+8: draw(1100, 767)
+
+piirraTausta(1908, 2047)...
+tausta: 936, 702
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-408, -361)
+1: draw(342, -361)
+2: draw(1092, -361)
+3: draw(-408, 201)
+4: draw(342, 201)
+5: draw(1092, 201)
+6: draw(-408, 763)
+7: draw(342, 763)
+8: draw(1092, 763)
+
+piirraTausta(1916, 2052)...
+tausta: 943, 707
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-416, -366)
+1: draw(334, -366)
+2: draw(1084, -366)
+3: draw(-416, 196)
+4: draw(334, 196)
+5: draw(1084, 196)
+6: draw(-416, 758)
+7: draw(334, 758)
+8: draw(1084, 758)
+
+piirraTausta(1924, 2057)...
+tausta: 951, 713
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-424, -371)
+1: draw(326, -371)
+2: draw(1076, -371)
+3: draw(-424, 191)
+4: draw(326, 191)
+5: draw(1076, 191)
+6: draw(-424, 753)
+7: draw(326, 753)
+8: draw(1076, 753)
+
+piirraTausta(1931, 2062)...
+tausta: 958, 718
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-431, -376)
+1: draw(319, -376)
+2: draw(1069, -376)
+3: draw(-431, 186)
+4: draw(319, 186)
+5: draw(1069, 186)
+6: draw(-431, 748)
+7: draw(319, 748)
+8: draw(1069, 748)
+
+piirraTausta(1939, 2066)...
+tausta: 965, 723
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-439, -380)
+1: draw(311, -380)
+2: draw(1061, -380)
+3: draw(-439, 182)
+4: draw(311, 182)
+5: draw(1061, 182)
+6: draw(-439, 744)
+7: draw(311, 744)
+8: draw(1061, 744)
+
+piirraTausta(1947, 2071)...
+tausta: 972, 729
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-447, -385)
+1: draw(303, -385)
+2: draw(1053, -385)
+3: draw(-447, 177)
+4: draw(303, 177)
+5: draw(1053, 177)
+6: draw(-447, 739)
+7: draw(303, 739)
+8: draw(1053, 739)
+
+piirraTausta(1953, 2075)...
+tausta: 979, 734
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-453, -389)
+1: draw(297, -389)
+2: draw(1047, -389)
+3: draw(-453, 173)
+4: draw(297, 173)
+5: draw(1047, 173)
+6: draw(-453, 735)
+7: draw(297, 735)
+8: draw(1047, 735)
+
+piirraTausta(1961, 2080)...
+tausta: 986, 739
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-461, -394)
+1: draw(289, -394)
+2: draw(1039, -394)
+3: draw(-461, 168)
+4: draw(289, 168)
+5: draw(1039, 168)
+6: draw(-461, 730)
+7: draw(289, 730)
+8: draw(1039, 730)
+
+piirraTausta(1965, 2084)...
+tausta: 992, 744
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-465, -398)
+1: draw(285, -398)
+2: draw(1035, -398)
+3: draw(-465, 164)
+4: draw(285, 164)
+5: draw(1035, 164)
+6: draw(-465, 726)
+7: draw(285, 726)
+8: draw(1035, 726)
+
+piirraTausta(1968, 2088)...
+tausta: 999, 749
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-468, -402)
+1: draw(282, -402)
+2: draw(1032, -402)
+3: draw(-468, 160)
+4: draw(282, 160)
+5: draw(1032, 160)
+6: draw(-468, 722)
+7: draw(282, 722)
+8: draw(1032, 722)
+
+piirraTausta(1968, 2092)...
+tausta: 1006, 754
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-468, -406)
+1: draw(282, -406)
+2: draw(1032, -406)
+3: draw(-468, 156)
+4: draw(282, 156)
+5: draw(1032, 156)
+6: draw(-468, 718)
+7: draw(282, 718)
+8: draw(1032, 718)
+
+piirraTausta(1964, 2095)...
+tausta: 1013, 759
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-464, -409)
+1: draw(286, -409)
+2: draw(1036, -409)
+3: draw(-464, 153)
+4: draw(286, 153)
+5: draw(1036, 153)
+6: draw(-464, 715)
+7: draw(286, 715)
+8: draw(1036, 715)
+
+piirraTausta(1959, 2100)...
+tausta: 1019, 764
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-459, -414)
+1: draw(291, -414)
+2: draw(1041, -414)
+3: draw(-459, 148)
+4: draw(291, 148)
+5: draw(1041, 148)
+6: draw(-459, 710)
+7: draw(291, 710)
+8: draw(1041, 710)
+
+piirraTausta(1952, 2100)...
+tausta: 1026, 769
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-452, -414)
+1: draw(298, -414)
+2: draw(1048, -414)
+3: draw(-452, 148)
+4: draw(298, 148)
+5: draw(1048, 148)
+6: draw(-452, 710)
+7: draw(298, 710)
+8: draw(1048, 710)
+
+piirraTausta(1944, 2099)...
+tausta: 1032, 774
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-444, -413)
+1: draw(306, -413)
+2: draw(1056, -413)
+3: draw(-444, 149)
+4: draw(306, 149)
+5: draw(1056, 149)
+6: draw(-444, 711)
+7: draw(306, 711)
+8: draw(1056, 711)
+
+piirraTausta(1937, 2095)...
+tausta: 1039, 779
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-437, -409)
+1: draw(313, -409)
+2: draw(1063, -409)
+3: draw(-437, 153)
+4: draw(313, 153)
+5: draw(1063, 153)
+6: draw(-437, 715)
+7: draw(313, 715)
+8: draw(1063, 715)
+
+piirraTausta(1930, 2089)...
+tausta: 1045, 784
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-430, -403)
+1: draw(320, -403)
+2: draw(1070, -403)
+3: draw(-430, 159)
+4: draw(320, 159)
+5: draw(1070, 159)
+6: draw(-430, 721)
+7: draw(320, 721)
+8: draw(1070, 721)
+
+piirraTausta(1923, 2081)...
+tausta: 1051, 788
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-423, -395)
+1: draw(327, -395)
+2: draw(1077, -395)
+3: draw(-423, 167)
+4: draw(327, 167)
+5: draw(1077, 167)
+6: draw(-423, 729)
+7: draw(327, 729)
+8: draw(1077, 729)
+
+piirraTausta(1916, 2070)...
+tausta: 1057, 793
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-416, -384)
+1: draw(334, -384)
+2: draw(1084, -384)
+3: draw(-416, 178)
+4: draw(334, 178)
+5: draw(1084, 178)
+6: draw(-416, 740)
+7: draw(334, 740)
+8: draw(1084, 740)
+
+piirraTausta(1910, 2058)...
+tausta: 1064, 798
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-410, -372)
+1: draw(340, -372)
+2: draw(1090, -372)
+3: draw(-410, 190)
+4: draw(340, 190)
+5: draw(1090, 190)
+6: draw(-410, 752)
+7: draw(340, 752)
+8: draw(1090, 752)
+
+piirraTausta(1902, 2042)...
+tausta: 1070, 802
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-402, -356)
+1: draw(348, -356)
+2: draw(1098, -356)
+3: draw(-402, 206)
+4: draw(348, 206)
+5: draw(1098, 206)
+6: draw(-402, 768)
+7: draw(348, 768)
+8: draw(1098, 768)
+
+piirraTausta(1896, 2025)...
+tausta: 1076, 807
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-396, -339)
+1: draw(354, -339)
+2: draw(1104, -339)
+3: draw(-396, 223)
+4: draw(354, 223)
+5: draw(1104, 223)
+6: draw(-396, 785)
+7: draw(354, 785)
+8: draw(1104, 785)
+
+piirraTausta(1889, 2006)...
+tausta: 1081, 811
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-389, -320)
+1: draw(361, -320)
+2: draw(1111, -320)
+3: draw(-389, 242)
+4: draw(361, 242)
+5: draw(1111, 242)
+6: draw(-389, 804)
+7: draw(361, 804)
+8: draw(1111, 804)
+
+piirraTausta(1883, 1985)...
+tausta: 1087, 815
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-383, -299)
+1: draw(367, -299)
+2: draw(1117, -299)
+3: draw(-383, 263)
+4: draw(367, 263)
+5: draw(1117, 263)
+6: draw(-383, 825)
+7: draw(367, 825)
+8: draw(1117, 825)
+
+piirraTausta(1877, 1961)...
+tausta: 1093, 820
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-377, -275)
+1: draw(373, -275)
+2: draw(1123, -275)
+3: draw(-377, 287)
+4: draw(373, 287)
+5: draw(1123, 287)
+6: draw(-377, 849)
+7: draw(373, 849)
+8: draw(1123, 849)
+
+piirraTausta(1868, 1934)...
+tausta: 1099, 824
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-368, -248)
+1: draw(382, -248)
+2: draw(1132, -248)
+3: draw(-368, 314)
+4: draw(382, 314)
+5: draw(1132, 314)
+6: draw(-368, 876)
+7: draw(382, 876)
+8: draw(1132, 876)
+
+piirraTausta(1857, 1909)...
+tausta: 1104, 828
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-357, -223)
+1: draw(393, -223)
+2: draw(1143, -223)
+3: draw(-357, 339)
+4: draw(393, 339)
+5: draw(1143, 339)
+6: draw(-357, 901)
+7: draw(393, 901)
+8: draw(1143, 901)
+
+piirraTausta(1844, 1884)...
+tausta: 1110, 832
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-344, -198)
+1: draw(406, -198)
+2: draw(1156, -198)
+3: draw(-344, 364)
+4: draw(406, 364)
+5: draw(1156, 364)
+6: draw(-344, 926)
+7: draw(406, 926)
+8: draw(1156, 926)
+
+piirraTausta(1828, 1859)...
+tausta: 1116, 837
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-328, -173)
+1: draw(422, -173)
+2: draw(1172, -173)
+3: draw(-328, 389)
+4: draw(422, 389)
+5: draw(1172, 389)
+6: draw(-328, 951)
+7: draw(422, 951)
+8: draw(1172, 951)
+
+piirraTausta(1810, 1834)...
+tausta: 1121, 841
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-310, -148)
+1: draw(440, -148)
+2: draw(1190, -148)
+3: draw(-310, 414)
+4: draw(440, 414)
+5: draw(1190, 414)
+6: draw(-310, 976)
+7: draw(440, 976)
+8: draw(1190, 976)
+
+piirraTausta(1791, 1808)...
+tausta: 1126, 845
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-291, -122)
+1: draw(459, -122)
+2: draw(1209, -122)
+3: draw(-291, 440)
+4: draw(459, 440)
+5: draw(1209, 440)
+6: draw(-291, 1002)
+7: draw(459, 1002)
+8: draw(1209, 1002)
+
+piirraTausta(1770, 1787)...
+tausta: 1132, 849
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-270, -101)
+1: draw(480, -101)
+2: draw(1230, -101)
+3: draw(-270, 461)
+4: draw(480, 461)
+5: draw(1230, 461)
+6: draw(-270, 1023)
+7: draw(480, 1023)
+8: draw(1230, 1023)
+
+piirraTausta(1746, 1768)...
+tausta: 1137, 853
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-246, -82)
+1: draw(504, -82)
+2: draw(1254, -82)
+3: draw(-246, 480)
+4: draw(504, 480)
+5: draw(1254, 480)
+6: draw(-246, 1042)
+7: draw(504, 1042)
+8: draw(1254, 1042)
+
+piirraTausta(1722, 1752)...
+tausta: 1142, 856
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-222, -66)
+1: draw(528, -66)
+2: draw(1278, -66)
+3: draw(-222, 496)
+4: draw(528, 496)
+5: draw(1278, 496)
+6: draw(-222, 1058)
+7: draw(528, 1058)
+8: draw(1278, 1058)
+
+piirraTausta(1695, 1738)...
+tausta: 1147, 860
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-195, -52)
+1: draw(555, -52)
+2: draw(1305, -52)
+3: draw(-195, 510)
+4: draw(555, 510)
+5: draw(1305, 510)
+6: draw(-195, 1072)
+7: draw(555, 1072)
+8: draw(1305, 1072)
+
+piirraTausta(1666, 1727)...
+tausta: 1152, 864
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-166, -41)
+1: draw(584, -41)
+2: draw(1334, -41)
+3: draw(-166, 521)
+4: draw(584, 521)
+5: draw(1334, 521)
+6: draw(-166, 1083)
+7: draw(584, 1083)
+8: draw(1334, 1083)
+
+piirraTausta(1635, 1716)...
+tausta: 1157, 868
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-135, -30)
+1: draw(615, -30)
+2: draw(1365, -30)
+3: draw(-135, 532)
+4: draw(615, 532)
+5: draw(1365, 532)
+6: draw(-135, 1094)
+7: draw(615, 1094)
+8: draw(1365, 1094)
+
+piirraTausta(1605, 1704)...
+tausta: 1162, 872
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-105, -18)
+1: draw(645, -18)
+2: draw(1395, -18)
+3: draw(-105, 544)
+4: draw(645, 544)
+5: draw(1395, 544)
+6: draw(-105, 1106)
+7: draw(645, 1106)
+8: draw(1395, 1106)
+
+piirraTausta(1574, 1693)...
+tausta: 1167, 875
+0:tile[2:3]
+1:tile[3:3]
+2:tile[0:3]
+3:tile[2:0]
+4:tile[3:0]
+5:tile[0:0]
+6:tile[2:1]
+7:tile[3:1]
+8:tile[0:1]
+0: draw(-74, -7)
+1: draw(676, -7)
+2: draw(1426, -7)
+3: draw(-74, 555)
+4: draw(676, 555)
+5: draw(1426, 555)
+6: draw(-74, 1117)
+7: draw(676, 1117)
+8: draw(1426, 1117)
+
+piirraTausta(1544, 1683)...
+tausta: 1172, 879
+0:tile[2:2]
+1:tile[3:2]
+2:tile[0:2]
+3:tile[2:3]
+4:tile[3:3]
+5:tile[0:3]
+6:tile[2:0]
+7:tile[3:0]
+8:tile[0:0]
+0: draw(-44, -559)
+1: draw(706, -559)
+2: draw(1456, -559)
+3: draw(-44, 3)
+4: draw(706, 3)
+5: draw(1456, 3)
+6: draw(-44, 565)
+7: draw(706, 565)
+8: draw(1456, 565)
+
+piirraTausta(1514, 1672)...
+tausta: 1177, 883
+0:tile[2:2]
+1:tile[3:2]
+2:tile[0:2]
+3:tile[2:3]
+4:tile[3:3]
+5:tile[0:3]
+6:tile[2:0]
+7:tile[3:0]
+8:tile[0:0]
+0: draw(-14, -548)
+1: draw(736, -548)
+2: draw(1486, -548)
+3: draw(-14, 14)
+4: draw(736, 14)
+5: draw(1486, 14)
+6: draw(-14, 576)
+7: draw(736, 576)
+8: draw(1486, 576)
+
+piirraTausta(1485, 1661)...
+tausta: 1182, 886
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-735, -537)
+1: draw(15, -537)
+2: draw(765, -537)
+3: draw(-735, 25)
+4: draw(15, 25)
+5: draw(765, 25)
+6: draw(-735, 587)
+7: draw(15, 587)
+8: draw(765, 587)
+
+piirraTausta(1455, 1650)...
+tausta: 1186, 890
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-705, -526)
+1: draw(45, -526)
+2: draw(795, -526)
+3: draw(-705, 36)
+4: draw(45, 36)
+5: draw(795, 36)
+6: draw(-705, 598)
+7: draw(45, 598)
+8: draw(795, 598)
+
+piirraTausta(1426, 1640)...
+tausta: 1191, 893
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-676, -516)
+1: draw(74, -516)
+2: draw(824, -516)
+3: draw(-676, 46)
+4: draw(74, 46)
+5: draw(824, 46)
+6: draw(-676, 608)
+7: draw(74, 608)
+8: draw(824, 608)
+
+piirraTausta(1399, 1630)...
+tausta: 1195, 896
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-649, -506)
+1: draw(101, -506)
+2: draw(851, -506)
+3: draw(-649, 56)
+4: draw(101, 56)
+5: draw(851, 56)
+6: draw(-649, 618)
+7: draw(101, 618)
+8: draw(851, 618)
+
+piirraTausta(1371, 1620)...
+tausta: 1200, 900
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-621, -496)
+1: draw(129, -496)
+2: draw(879, -496)
+3: draw(-621, 66)
+4: draw(129, 66)
+5: draw(879, 66)
+6: draw(-621, 628)
+7: draw(129, 628)
+8: draw(879, 628)
+
+piirraTausta(1343, 1612)...
+tausta: 1204, 903
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-593, -488)
+1: draw(157, -488)
+2: draw(907, -488)
+3: draw(-593, 74)
+4: draw(157, 74)
+5: draw(907, 74)
+6: draw(-593, 636)
+7: draw(157, 636)
+8: draw(907, 636)
+
+piirraTausta(1316, 1607)...
+tausta: 1208, 906
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-566, -483)
+1: draw(184, -483)
+2: draw(934, -483)
+3: draw(-566, 79)
+4: draw(184, 79)
+5: draw(934, 79)
+6: draw(-566, 641)
+7: draw(184, 641)
+8: draw(934, 641)
+
+piirraTausta(1291, 1603)...
+tausta: 1212, 909
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-541, -479)
+1: draw(209, -479)
+2: draw(959, -479)
+3: draw(-541, 83)
+4: draw(209, 83)
+5: draw(959, 83)
+6: draw(-541, 645)
+7: draw(209, 645)
+8: draw(959, 645)
+
+piirraTausta(1269, 1603)...
+tausta: 1217, 912
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-519, -479)
+1: draw(231, -479)
+2: draw(981, -479)
+3: draw(-519, 83)
+4: draw(231, 83)
+5: draw(981, 83)
+6: draw(-519, 645)
+7: draw(231, 645)
+8: draw(981, 645)
+
+piirraTausta(1249, 1602)...
+tausta: 1220, 915
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-499, -478)
+1: draw(251, -478)
+2: draw(1001, -478)
+3: draw(-499, 84)
+4: draw(251, 84)
+5: draw(1001, 84)
+6: draw(-499, 646)
+7: draw(251, 646)
+8: draw(1001, 646)
+
+piirraTausta(1229, 1601)...
+tausta: 1224, 918
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-479, -477)
+1: draw(271, -477)
+2: draw(1021, -477)
+3: draw(-479, 85)
+4: draw(271, 85)
+5: draw(1021, 85)
+6: draw(-479, 647)
+7: draw(271, 647)
+8: draw(1021, 647)
+
+roska: (1317, 1554), r=506
+tausta: 1012, 1012
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-567, -430)
+1: draw(183, -430)
+2: draw(933, -430)
+3: draw(-567, 132)
+4: draw(183, 132)
+5: draw(933, 132)
+6: draw(-567, 694)
+7: draw(183, 694)
+8: draw(933, 694)
+
+piirraTausta(1210, 1600)...
+tausta: 1228, 921
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-460, -476)
+1: draw(290, -476)
+2: draw(1040, -476)
+3: draw(-460, 86)
+4: draw(290, 86)
+5: draw(1040, 86)
+6: draw(-460, 648)
+7: draw(290, 648)
+8: draw(1040, 648)
+
+piirraTausta(1193, 1599)...
+tausta: 1232, 924
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-443, -475)
+1: draw(307, -475)
+2: draw(1057, -475)
+3: draw(-443, 87)
+4: draw(307, 87)
+5: draw(1057, 87)
+6: draw(-443, 649)
+7: draw(307, 649)
+8: draw(1057, 649)
+
+piirraTausta(1176, 1598)...
+tausta: 1235, 926
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-426, -474)
+1: draw(324, -474)
+2: draw(1074, -474)
+3: draw(-426, 88)
+4: draw(324, 88)
+5: draw(1074, 88)
+6: draw(-426, 650)
+7: draw(324, 650)
+8: draw(1074, 650)
+
+piirraTausta(1161, 1597)...
+tausta: 1239, 929
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-411, -473)
+1: draw(339, -473)
+2: draw(1089, -473)
+3: draw(-411, 89)
+4: draw(339, 89)
+5: draw(1089, 89)
+6: draw(-411, 651)
+7: draw(339, 651)
+8: draw(1089, 651)
+
+piirraTausta(1144, 1597)...
+tausta: 1242, 932
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-394, -473)
+1: draw(356, -473)
+2: draw(1106, -473)
+3: draw(-394, 89)
+4: draw(356, 89)
+5: draw(1106, 89)
+6: draw(-394, 651)
+7: draw(356, 651)
+8: draw(1106, 651)
+
+piirraTausta(1128, 1595)...
+tausta: 1246, 934
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-378, -471)
+1: draw(372, -471)
+2: draw(1122, -471)
+3: draw(-378, 91)
+4: draw(372, 91)
+5: draw(1122, 91)
+6: draw(-378, 653)
+7: draw(372, 653)
+8: draw(1122, 653)
+
+piirraTausta(1112, 1595)...
+tausta: 1249, 937
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-362, -471)
+1: draw(388, -471)
+2: draw(1138, -471)
+3: draw(-362, 91)
+4: draw(388, 91)
+5: draw(1138, 91)
+6: draw(-362, 653)
+7: draw(388, 653)
+8: draw(1138, 653)
+
+piirraTausta(1097, 1594)...
+tausta: 1252, 939
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-347, -470)
+1: draw(403, -470)
+2: draw(1153, -470)
+3: draw(-347, 92)
+4: draw(403, 92)
+5: draw(1153, 92)
+6: draw(-347, 654)
+7: draw(403, 654)
+8: draw(1153, 654)
+
+piirraTausta(1081, 1594)...
+tausta: 1255, 941
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-331, -470)
+1: draw(419, -470)
+2: draw(1169, -470)
+3: draw(-331, 92)
+4: draw(419, 92)
+5: draw(1169, 92)
+6: draw(-331, 654)
+7: draw(419, 654)
+8: draw(1169, 654)
+
+roska: (1251, 1620), r=444
+tausta: 888, 888
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-501, -496)
+1: draw(249, -496)
+2: draw(999, -496)
+3: draw(-501, 66)
+4: draw(249, 66)
+5: draw(999, 66)
+6: draw(-501, 628)
+7: draw(249, 628)
+8: draw(999, 628)
+
+piirraTausta(1067, 1593)...
+tausta: 1257, 943
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-317, -469)
+1: draw(433, -469)
+2: draw(1183, -469)
+3: draw(-317, 93)
+4: draw(433, 93)
+5: draw(1183, 93)
+6: draw(-317, 655)
+7: draw(433, 655)
+8: draw(1183, 655)
+
+piirraTausta(1055, 1594)...
+tausta: 1260, 945
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-305, -470)
+1: draw(445, -470)
+2: draw(1195, -470)
+3: draw(-305, 92)
+4: draw(445, 92)
+5: draw(1195, 92)
+6: draw(-305, 654)
+7: draw(445, 654)
+8: draw(1195, 654)
+
+piirraTausta(1044, 1598)...
+tausta: 1262, 947
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-294, -474)
+1: draw(456, -474)
+2: draw(1206, -474)
+3: draw(-294, 88)
+4: draw(456, 88)
+5: draw(1206, 88)
+6: draw(-294, 650)
+7: draw(456, 650)
+8: draw(1206, 650)
+
+piirraTausta(1036, 1601)...
+tausta: 1265, 948
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-286, -477)
+1: draw(464, -477)
+2: draw(1214, -477)
+3: draw(-286, 85)
+4: draw(464, 85)
+5: draw(1214, 85)
+6: draw(-286, 647)
+7: draw(464, 647)
+8: draw(1214, 647)
+
+piirraTausta(1030, 1605)...
+tausta: 1267, 950
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-280, -481)
+1: draw(470, -481)
+2: draw(1220, -481)
+3: draw(-280, 81)
+4: draw(470, 81)
+5: draw(1220, 81)
+6: draw(-280, 643)
+7: draw(470, 643)
+8: draw(1220, 643)
+
+piirraTausta(1024, 1608)...
+tausta: 1268, 951
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-274, -484)
+1: draw(476, -484)
+2: draw(1226, -484)
+3: draw(-274, 78)
+4: draw(476, 78)
+5: draw(1226, 78)
+6: draw(-274, 640)
+7: draw(476, 640)
+8: draw(1226, 640)
+
+piirraTausta(1021, 1613)...
+tausta: 1270, 952
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-271, -489)
+1: draw(479, -489)
+2: draw(1229, -489)
+3: draw(-271, 73)
+4: draw(479, 73)
+5: draw(1229, 73)
+6: draw(-271, 635)
+7: draw(479, 635)
+8: draw(1229, 635)
+
+piirraTausta(1019, 1616)...
+tausta: 1271, 953
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-269, -492)
+1: draw(481, -492)
+2: draw(1231, -492)
+3: draw(-269, 70)
+4: draw(481, 70)
+5: draw(1231, 70)
+6: draw(-269, 632)
+7: draw(481, 632)
+8: draw(1231, 632)
+
+piirraTausta(1020, 1622)...
+tausta: 1272, 954
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-270, -498)
+1: draw(480, -498)
+2: draw(1230, -498)
+3: draw(-270, 64)
+4: draw(480, 64)
+5: draw(1230, 64)
+6: draw(-270, 626)
+7: draw(480, 626)
+8: draw(1230, 626)
+
+piirraTausta(1023, 1629)...
+tausta: 1273, 955
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-273, -505)
+1: draw(477, -505)
+2: draw(1227, -505)
+3: draw(-273, 57)
+4: draw(477, 57)
+5: draw(1227, 57)
+6: draw(-273, 619)
+7: draw(477, 619)
+8: draw(1227, 619)
+
+piirraTausta(1026, 1639)...
+tausta: 1274, 956
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-276, -515)
+1: draw(474, -515)
+2: draw(1224, -515)
+3: draw(-276, 47)
+4: draw(474, 47)
+5: draw(1224, 47)
+6: draw(-276, 609)
+7: draw(474, 609)
+8: draw(1224, 609)
+
+piirraTausta(1029, 1650)...
+tausta: 1275, 956
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-279, -526)
+1: draw(471, -526)
+2: draw(1221, -526)
+3: draw(-279, 36)
+4: draw(471, 36)
+5: draw(1221, 36)
+6: draw(-279, 598)
+7: draw(471, 598)
+8: draw(1221, 598)
+
+piirraTausta(1032, 1664)...
+tausta: 1276, 957
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-282, -540)
+1: draw(468, -540)
+2: draw(1218, -540)
+3: draw(-282, 22)
+4: draw(468, 22)
+5: draw(1218, 22)
+6: draw(-282, 584)
+7: draw(468, 584)
+8: draw(1218, 584)
+
+piirraTausta(1034, 1680)...
+tausta: 1276, 957
+0:tile[1:2]
+1:tile[2:2]
+2:tile[3:2]
+3:tile[1:3]
+4:tile[2:3]
+5:tile[3:3]
+6:tile[1:0]
+7:tile[2:0]
+8:tile[3:0]
+0: draw(-284, -556)
+1: draw(466, -556)
+2: draw(1216, -556)
+3: draw(-284, 6)
+4: draw(466, 6)
+5: draw(1216, 6)
+6: draw(-284, 568)
+7: draw(466, 568)
+8: draw(1216, 568)
+
+piirraTausta(1037, 1697)...
+tausta: 1277, 958
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-287, -11)
+1: draw(463, -11)
+2: draw(1213, -11)
+3: draw(-287, 551)
+4: draw(463, 551)
+5: draw(1213, 551)
+6: draw(-287, 1113)
+7: draw(463, 1113)
+8: draw(1213, 1113)
+
+piirraTausta(1041, 1713)...
+tausta: 1278, 958
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-291, -27)
+1: draw(459, -27)
+2: draw(1209, -27)
+3: draw(-291, 535)
+4: draw(459, 535)
+5: draw(1209, 535)
+6: draw(-291, 1097)
+7: draw(459, 1097)
+8: draw(1209, 1097)
+
+piirraTausta(1043, 1730)...
+tausta: 1278, 959
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-293, -44)
+1: draw(457, -44)
+2: draw(1207, -44)
+3: draw(-293, 518)
+4: draw(457, 518)
+5: draw(1207, 518)
+6: draw(-293, 1080)
+7: draw(457, 1080)
+8: draw(1207, 1080)
+
+piirraTausta(1046, 1746)...
+tausta: 1279, 959
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-296, -60)
+1: draw(454, -60)
+2: draw(1204, -60)
+3: draw(-296, 502)
+4: draw(454, 502)
+5: draw(1204, 502)
+6: draw(-296, 1064)
+7: draw(454, 1064)
+8: draw(1204, 1064)
+
+piirraTausta(1049, 1761)...
+tausta: 1279, 959
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-299, -75)
+1: draw(451, -75)
+2: draw(1201, -75)
+3: draw(-299, 487)
+4: draw(451, 487)
+5: draw(1201, 487)
+6: draw(-299, 1049)
+7: draw(451, 1049)
+8: draw(1201, 1049)
+
+piirraTausta(1051, 1778)...
+tausta: 1280, 960
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-301, -92)
+1: draw(449, -92)
+2: draw(1199, -92)
+3: draw(-301, 470)
+4: draw(449, 470)
+5: draw(1199, 470)
+6: draw(-301, 1032)
+7: draw(449, 1032)
+8: draw(1199, 1032)
+
+piirraTausta(1054, 1792)...
+tausta: 1280, 960
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-304, -106)
+1: draw(446, -106)
+2: draw(1196, -106)
+3: draw(-304, 456)
+4: draw(446, 456)
+5: draw(1196, 456)
+6: draw(-304, 1018)
+7: draw(446, 1018)
+8: draw(1196, 1018)
+
+piirraTausta(1057, 1807)...
+tausta: 1280, 960
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-307, -121)
+1: draw(443, -121)
+2: draw(1193, -121)
+3: draw(-307, 441)
+4: draw(443, 441)
+5: draw(1193, 441)
+6: draw(-307, 1003)
+7: draw(443, 1003)
+8: draw(1193, 1003)
+
+piirraTausta(1060, 1822)...
+tausta: 1280, 960
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-310, -136)
+1: draw(440, -136)
+2: draw(1190, -136)
+3: draw(-310, 426)
+4: draw(440, 426)
+5: draw(1190, 426)
+6: draw(-310, 988)
+7: draw(440, 988)
+8: draw(1190, 988)
+
+piirraTausta(1063, 1836)...
+tausta: 1280, 960
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-313, -150)
+1: draw(437, -150)
+2: draw(1187, -150)
+3: draw(-313, 412)
+4: draw(437, 412)
+5: draw(1187, 412)
+6: draw(-313, 974)
+7: draw(437, 974)
+8: draw(1187, 974)
+
+roska: (1256, 1881), r=449
+tausta: 898, 898
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-506, -195)
+1: draw(244, -195)
+2: draw(994, -195)
+3: draw(-506, 367)
+4: draw(244, 367)
+5: draw(994, 367)
+6: draw(-506, 929)
+7: draw(244, 929)
+8: draw(994, 929)
+
+piirraTausta(1065, 1850)...
+tausta: 1280, 960
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-315, -164)
+1: draw(435, -164)
+2: draw(1185, -164)
+3: draw(-315, 398)
+4: draw(435, 398)
+5: draw(1185, 398)
+6: draw(-315, 960)
+7: draw(435, 960)
+8: draw(1185, 960)
+
+piirraTausta(1067, 1862)...
+tausta: 1280, 960
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-317, -176)
+1: draw(433, -176)
+2: draw(1183, -176)
+3: draw(-317, 386)
+4: draw(433, 386)
+5: draw(1183, 386)
+6: draw(-317, 948)
+7: draw(433, 948)
+8: draw(1183, 948)
+
+piirraTausta(1070, 1874)...
+tausta: 1280, 960
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-320, -188)
+1: draw(430, -188)
+2: draw(1180, -188)
+3: draw(-320, 374)
+4: draw(430, 374)
+5: draw(1180, 374)
+6: draw(-320, 936)
+7: draw(430, 936)
+8: draw(1180, 936)
+
+piirraTausta(1072, 1885)...
+tausta: 1280, 960
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-322, -199)
+1: draw(428, -199)
+2: draw(1178, -199)
+3: draw(-322, 363)
+4: draw(428, 363)
+5: draw(1178, 363)
+6: draw(-322, 925)
+7: draw(428, 925)
+8: draw(1178, 925)
+
+piirraTausta(1074, 1897)...
+tausta: 1280, 960
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-324, -211)
+1: draw(426, -211)
+2: draw(1176, -211)
+3: draw(-324, 351)
+4: draw(426, 351)
+5: draw(1176, 351)
+6: draw(-324, 913)
+7: draw(426, 913)
+8: draw(1176, 913)
+
+piirraTausta(1076, 1908)...
+tausta: 1280, 960
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-326, -222)
+1: draw(424, -222)
+2: draw(1174, -222)
+3: draw(-326, 340)
+4: draw(424, 340)
+5: draw(1174, 340)
+6: draw(-326, 902)
+7: draw(424, 902)
+8: draw(1174, 902)
+
+piirraTausta(1078, 1919)...
+tausta: 1280, 960
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-328, -233)
+1: draw(422, -233)
+2: draw(1172, -233)
+3: draw(-328, 329)
+4: draw(422, 329)
+5: draw(1172, 329)
+6: draw(-328, 891)
+7: draw(422, 891)
+8: draw(1172, 891)
+
+piirraTausta(1080, 1930)...
+tausta: 1280, 960
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-330, -244)
+1: draw(420, -244)
+2: draw(1170, -244)
+3: draw(-330, 318)
+4: draw(420, 318)
+5: draw(1170, 318)
+6: draw(-330, 880)
+7: draw(420, 880)
+8: draw(1170, 880)
+
+piirraTausta(1082, 1941)...
+tausta: 1280, 960
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-332, -255)
+1: draw(418, -255)
+2: draw(1168, -255)
+3: draw(-332, 307)
+4: draw(418, 307)
+5: draw(1168, 307)
+6: draw(-332, 869)
+7: draw(418, 869)
+8: draw(1168, 869)
+
+piirraTausta(1084, 1952)...
+tausta: 1280, 960
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-334, -266)
+1: draw(416, -266)
+2: draw(1166, -266)
+3: draw(-334, 296)
+4: draw(416, 296)
+5: draw(1166, 296)
+6: draw(-334, 858)
+7: draw(416, 858)
+8: draw(1166, 858)
+
+piirraTausta(1086, 1963)...
+tausta: 1280, 960
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-336, -277)
+1: draw(414, -277)
+2: draw(1164, -277)
+3: draw(-336, 285)
+4: draw(414, 285)
+5: draw(1164, 285)
+6: draw(-336, 847)
+7: draw(414, 847)
+8: draw(1164, 847)
+
+piirraTausta(1088, 1974)...
+tausta: 1280, 960
+0:tile[1:3]
+1:tile[2:3]
+2:tile[3:3]
+3:tile[1:0]
+4:tile[2:0]
+5:tile[3:0]
+6:tile[1:1]
+7:tile[2:1]
+8:tile[3:1]
+0: draw(-338, -288)
+1: draw(412, -288)
+2: draw(1162, -288)
+3: draw(-338, 274)
+4: draw(412, 274)
+5: draw(1162, 274)
+6: draw(-338, 836)
+7: draw(412, 836)
+8: draw(1162, 836)
+
+next level...
+you win!

@@ -1,0 +1,19 @@
+
+visual media/night_bg.jpg
+logical media/night_logical.png
+trash media/night_trash.png
+time 3000
+intro media/future.mp3
+loop media/future.mp3
+spawns
+media/futureSpawn.png
+media/futureSpawn.png
+media/futureSpawn.png
+media/neon6.png
+media/neon6.png
+media/neon3.png
+media/neon3.png
+media/neon4.png
+media/neon5.png
+media/neon5.png
+

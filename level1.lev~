@@ -1,0 +1,18 @@
+
+visual media/level1_bg.jpg
+logical media/level1_logic.png
+trash media/level1_trash.png
+time 1300
+intro media/level1_intro.mp3
+loop media/level1_loop.mp3
+spawns
+media/spawn1.png
+media/spawn2.png
+media/spawn3.png
+media/spawn4.png
+media/spawn5.png
+media/spawn6.png
+media/spawn7.png
+media/spawn8.png
+media/spawn9.png
+media/spawn10.png

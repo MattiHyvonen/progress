@@ -1,0 +1,18 @@
+
+visual media/final_bg.jpg
+logical media/final_logical.png
+trash media/final_trash.png
+time 4000
+intro media/end_intro.mp3
+loop media/end_loop.mp3
+spawns
+media/final1.png
+media/final1.png
+media/final1.png
+media/final1.png
+media/final1.png
+media/final1.png
+media/final1.png
+media/final1.png
+media/final1.png
+media/final1.png
